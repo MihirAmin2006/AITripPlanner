@@ -31,6 +31,10 @@
    ```bash
    git clone https://github.com/MihirAmin2006/AITripPlanner.git
    ```
+   OR
+   ```bash
+   
+   ```
 2. **Open `index.html`** in your web browser.
 
 ## 🗺️ Usage
@@ -43,10 +47,6 @@
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
 ## 📧 Contact
 
-For any inquiries, please contact [your email].
+For any inquiries, please contact [shambhlo2006@gmail.com] [mihiramin99@gmail.com].
