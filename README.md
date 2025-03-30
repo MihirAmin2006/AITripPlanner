@@ -33,7 +33,7 @@
    ```
    OR
    ```bash
-   
+   gir clone https://github.com/Parthivjoshi29/WanderLust-AI.git
    ```
 2. **Open `index.html`** in your web browser.
 
@@ -49,4 +49,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## 📧 Contact
 
-For any inquiries, please contact [shambhlo2006@gmail.com] [mihiramin99@gmail.com].
+For any inquiries, please contact:
+
+- [Parthiv Joshi](mailto:shambhlo2006@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shambhlo)
+- [Mihir Amin](mailto:mihiramin99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mihiramin)
